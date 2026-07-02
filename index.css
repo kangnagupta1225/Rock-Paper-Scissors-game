@@ -19,7 +19,7 @@ h1{
 .choice:hover{
     background-color:#081b31;
     border-radius:50%;
-    cursor: pointer;
+    cursor:pointer;
 }
 img{
     height:150px;
