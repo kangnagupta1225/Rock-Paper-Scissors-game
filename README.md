@@ -4,7 +4,7 @@ A fun and interactive Rock Paper Scissors game developed using HTML, CSS, and Ja
 
 Live Demo 
 
-https://kangnagupta1225.github.io/Rock-Paper-Scissors-game/
+https://kangnasync.github.io/Rock-Paper-Scissors-game/
 
 
 Screenshot
